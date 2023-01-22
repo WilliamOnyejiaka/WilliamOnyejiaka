@@ -1,9 +1,13 @@
+###justwonder
+
+<br />
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">Hi, am Wonder, a freelance software engineer 👨‍💻 been a student of software development since 2019. I love learning any type of programming language and I love building by projects from scratch 🚀</div>  
+### <div align="center">Hi, am Wonder, a freelance software engineer 👨‍💻 been a student of software engineering since 2019. I love learning any type of programming language and I love building by projects from scratch 🚀</div>  
   
 
 - 🔭 I’m currently working on myself and tech skills , to create quality products for my clients 👍  
