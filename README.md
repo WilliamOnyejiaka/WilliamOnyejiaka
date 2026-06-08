@@ -112,10 +112,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" title="Git" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=github" height="36" alt="GitHub" title="GitHub / GitHub Actions" />
-  <img width="10" />
+  <!-- <img width="10" />
   <img src="https://skillicons.dev/icons?i=terraform" height="36" alt="Terraform" title="Terraform — learning" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=aws" height="36" alt="AWS" title="AWS — in progress" />
+  <img width="10" /> -->
+  <!-- <img src="https://skillicons.dev/icons?i=aws" height="36" alt="AWS" title="AWS — in progress" /> -->
 </div>
 
 <br>
