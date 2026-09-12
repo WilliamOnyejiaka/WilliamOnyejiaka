@@ -1,7 +1,7 @@
 <h1 align="left">William Onyejiaka</h1>
 
 <p align="left">
-  Backend engineer with ~6 years of experience building robust, production-grade systems. I specialise in distributed architectures, real-time infrastructure, and scalable APIs — with a growing eye for full-stack product ownership.
+  Backend engineer with 2+ years of experience building robust, production-grade systems. I specialise in distributed architectures, real-time infrastructure, and scalable APIs — with a growing eye for full-stack product ownership.
 </p>
 
 <p align="left">
